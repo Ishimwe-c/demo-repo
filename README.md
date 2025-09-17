@@ -1,2 +1,2 @@
 # demo
-yoo learning git and github
+yoo learning git and github.
